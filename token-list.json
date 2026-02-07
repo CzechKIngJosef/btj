@@ -1,0 +1,12 @@
+{
+  "name": "BTJ_CZ Czech King Josef",
+  "symbol": "BTJ_CZ",
+  "address": "BHwwhu2Rz9toxBNKtD8bTY8XDWbh51PSHnH7nfUNUCHR",
+  "chainId": 101,
+  "decimals": 6,
+  "logoURI": "https://btj.neotantra.cz/logo.png",
+  "extensions": {
+    "website": "https://www.neotantra.cz",
+    "twitter": "https://twitter.com/CzechKingJosef",
+    "description": "The official token of Czech King Josef. Peace, sovereignty, and prosperity."
+ }}
