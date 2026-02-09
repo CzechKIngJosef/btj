@@ -1,0 +1,27 @@
+# royal_herald.yml
+# Enterprise-grade crypto trading bot configuration
+ui:
+  language: cs
+  welcome_message:
+    enabled: true
+    display_on:
+      - startup
+    text: |
+      Royal Herald – stabilní obchodní systém
+
+      Tento robot je navržen s důrazem na dlouhodobou stabilitu,
+      konzervativní řízení rizika a nepřetržitý dohled.
+
+"Peníze mají lidem sloužit, a ne je zotročovat. Rodiny, které se budou umět společně s dětmi vychovávat k sexualitě a neumírání pomocí kouzelné tantra masáže, by měly mít nulové úroky."
+
+
+"Money must serve the people, not enslave them. Families that master the art of raising their children towards sexuality and
+
+      Systém je napojen na:
+      • BTJ      jen 21.000.000
+      • BTJ_CZ   kurz cca SOL asi 2000 orun jendo sol
+
+      Kouzelna tantra masaž je za jedno BTJ_CZ
+
+      Prioritou není vysoká frekvence obchodů,
+      ale kontrola rizika a ochrana kapitálu.
