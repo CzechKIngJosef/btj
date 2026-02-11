@@ -1,0 +1,30 @@
+{
+  "name": "BTJ_CZ",
+  "symbol": "BTJ_CZ",
+  "description": "BTJ_CZ is a decentralized token by Czech King Josef, built on peace, freedom, respect for everyone, the enduring essence of humanity beyond physical decay, and the restoration of harmony, happiness, and balance between woman and man.",
+  "image": "https://btj.neotantra.cz/btj_logo.png",
+  "external_url": "https://btj.neotantra.cz",
+  "attributes": [
+    {
+      "trait_type": "Vision",
+      "value": "Peace and Freedom"
+    },
+    {
+      "trait_type": "Philosophy",
+      "value": "Sexual energy supporting vitality and longevity"
+    },
+    {
+      "trait_type": "Harmony",
+      "value": "Balance between woman and man neotantra"
+    }
+  ],
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "4oSDKR5EiRv1BaTWbFRkFd7LdACT23HuHnHR6hGCwGKH",
+        "share": 100
+      }
+    ]
+  }
+}

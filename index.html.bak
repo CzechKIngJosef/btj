@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8">
+  <title>BTJ</title>
+  <link rel="icon" type="image/png" href="/favicon.png?v=4">
+</head>
+<body>
+
+  <h1>BTJ Token</h1>
+
+  <button id="connect">Připojit Phantom</button>
+
+  <p id="wallet"></p>
+  <p id="btj"></p>
+
+  <!-- btj.js je ve stejné složce /btj -->
+  <script type="module" src="btj.js"></script>
+
+</body>
+</html>

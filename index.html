@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8">
+  <title>BTJ_CZ – Solana SPL Token</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="BTJ_CZ – oficiální QR kód a mint adresa Solana SPL tokenu.">
+  <meta name="theme-color" content="#020617">
+
+  <style>
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+      background: radial-gradient(1000px 600px at 50% -10%, #1f2937, #020617);
+      color: #e5e7eb;
+    }
+
+    .card {
+      background: rgba(2,6,23,.88);
+      backdrop-filter: blur(8px);
+      border-radius: 22px;
+      padding: 32px;
+      max-width: 440px;
+      width: calc(100% - 32px);
+      box-shadow: 0 30px 90px rgba(0,0,0,.7);
+      text-align: center;
+    }
+
+    h1 {
+      margin: 0 0 6px;
+      letter-spacing: .08em;
+      font-size: 2rem;
+    }
+
+    .subtitle {
+      font-size: .85rem;
+      opacity: .7;
+      margin-bottom: 14px;
+    }
+
+    .mint {
+      word-break: break-all;
+      font-size: .75rem;
+      opacity: .75;
+      margin-bottom: 18px;
+    }
+
+    .qr {
+      background: #ffffff;
+      border-radius: 18px;
+      padding: 16px;
+      display: inline-block;
+    }
+
+    .btns {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      margin-top: 18px;
+    }
+
+    a {
+      text-decoration: none;
+      padding: 12px 14px;
+      border-radius: 14px;
+      font-weight: 600;
+      font-size: .9rem;
+      transition: transform .15s ease, box-shadow .15s ease;
+    }
+
+    a:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 10px 20px rgba(0,0,0,.4);
+    }
+
+    .solscan {
+      background: #22c55e;
+      color: #020617;
+    }
+
+    .jupiter {
+      background: #93c5fd;
+      color: #020617;
+    }
+
+    footer {
+      margin-top: 18px;
+      font-size: .75rem;
+      opacity: .6;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="card">
+    <h1>BTJ_CZ</h1>
+    <div class="subtitle">Solana SPL Token</div>
+
+    <div class="mint">
+      BHwwhu2Rz9toxBNKtD8bTY8XDWbh51PSHnH7nfUNUCHR
+    </div>
+
+    <div class="qr">
+      <!-- QR SVG dej do stejné složky -->
+      <img
+        src="BTJ_CZ_mint_QR.svg"
+        alt="BTJ_CZ QR kód"
+        width="240"
+        height="240"
+      >
+    </div>
+
+    <div class="btns">
+      <a
+        class="solscan"
+        href="https://solscan.io/token/BHwwhu2Rz9toxBNKtD8bTY8XDWbh51PSHnH7nfUNUCHR"
+        target="_blank"
+        rel="noreferrer"
+      >
+        Solscan
+      </a>
+
+      <a
+        class="jupiter"
+        href="https://jup.ag/swap/SOL-BHwwhu2Rz9toxBNKtD8bTY8XDWbh51PSHnH7nfUNUCHR"
+        target="_blank"
+        rel="noreferrer"
+      >
+        Jupiter
+      </a>
+    </div>
+
+    <footer>
+      Skenuj v Moon · Phantom · Trust Wallet
+    </footer>
+  </div>
+</body>
+</html>

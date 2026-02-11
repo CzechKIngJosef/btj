@@ -1,0 +1,31 @@
+{
+  "name": "BTJ — Czech King Josef Token",
+  "symbol": "BTJ",
+  "description": "BTJ is a symbolic and community-driven token inspired by Czech heritage, sovereignty, and the digital future. An open project connecting culture, technology, and personal responsibility within a decentralized world.",
+  "image": "https://btj.neotantra.cz/btj_logo.png",
+  "external_url": "https://neotantra.cz",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "Origin",
+      "value": "Czech Republic"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Community / Symbolic"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    }
+  ],
+  "properties": {
+    "category": "token",
+    "files": [
+      {
+        "uri": "https://btj.neotantra.cz/btj_logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
